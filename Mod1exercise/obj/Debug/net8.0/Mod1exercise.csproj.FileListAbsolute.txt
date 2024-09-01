@@ -1,0 +1,14 @@
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Mod1exercise\bin\Debug\net8.0\Mod1exercise.exe
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Mod1exercise\bin\Debug\net8.0\Mod1exercise.deps.json
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Mod1exercise\bin\Debug\net8.0\Mod1exercise.runtimeconfig.json
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Mod1exercise\bin\Debug\net8.0\Mod1exercise.dll
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Mod1exercise\bin\Debug\net8.0\Mod1exercise.pdb
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Mod1exercise\obj\Debug\net8.0\Mod1exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Mod1exercise\obj\Debug\net8.0\Mod1exercise.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Mod1exercise\obj\Debug\net8.0\Mod1exercise.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Mod1exercise\obj\Debug\net8.0\Mod1exercise.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Mod1exercise\obj\Debug\net8.0\Mod1exercise.dll
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Mod1exercise\obj\Debug\net8.0\refint\Mod1exercise.dll
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Mod1exercise\obj\Debug\net8.0\Mod1exercise.pdb
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Mod1exercise\obj\Debug\net8.0\Mod1exercise.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Mod1exercise\obj\Debug\net8.0\ref\Mod1exercise.dll
